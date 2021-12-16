@@ -20,4 +20,4 @@ How to use the AutoCAT tool to generate CAT reports for use with troubleshooting
 
 
 Known Issues:
-License file encoded as <data> may result in false "License not found" message
+License file encoded as "<data>" may result in false "License not found" message
